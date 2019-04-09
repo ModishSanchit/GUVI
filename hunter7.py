@@ -8,4 +8,4 @@ for i in range(0,len(lis)):
         res_list.append(lis[i])
 
 for i in res_list:
-    print(res_list,end="")
+    print(res_list)
